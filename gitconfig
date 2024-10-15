@@ -59,3 +59,8 @@
 
 [init]
   defaultBranch = master
+[hozefa "zap1@gmail"]
+	com = Hozefa
+[user]
+	email = hozefa.zap1@gmail.com
+	name = Hozefa Sadriwala
